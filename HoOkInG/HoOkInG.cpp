@@ -5,7 +5,7 @@
 
 using namespace std;
 
-const char* path = "D:\\Shkola\\3rdCourse\\log.txt";
+const char* path = "log.txt";
 
 HHOOK hook;
 
